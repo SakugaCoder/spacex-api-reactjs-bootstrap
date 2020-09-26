@@ -41,7 +41,7 @@ function App() {
     <Container>
 
       <Alert variant="dark">
-        <h2 className="text-center">Space X Launches</h2>
+        <h2 className="text-center">SpaceX Launches</h2>
       </Alert>
       
       <div className="launches">
